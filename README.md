@@ -27,3 +27,6 @@ $ npm install
 $ npm install hexo -g
 $ hexo serve
 ```
+
+
+
